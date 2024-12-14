@@ -6,7 +6,7 @@ on:
 
 jobs:
   enviar_a_notion:
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Enviar Datos a Notion
